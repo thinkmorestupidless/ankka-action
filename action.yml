@@ -20,7 +20,7 @@ inputs:
       The ankka CLI version to install. Defaults to the version this action was released with, which
       is the version of the platform it was released beside.
     required: false
-    default: "0.0.0"
+    default: "0.7.0"
   url:
     description: The control plane's address, for example https://api.example.com.
     required: true
